@@ -1,0 +1,12 @@
+git init - criar um repositorio git 
+git clone - clona um repositorio
+git add - prepara arquivo para ser adiconado ao repositorio
+git commit - adiciona arquivo ao repositorio
+git branch - lista ramificacoes do repositorio
+git branch branch_name - criar uma nova branch
+git checkout -b branch_name - criar uma nova branch e muda para a mesma
+git checkout branch_name - muda para a branch
+//git push -set-upstream 
+git fetch - atulizar projeto com as mudancas
+git pull - baixa conteudo dos repositorio
+git merge  - merge dois branches
