@@ -1,0 +1,5 @@
+Para usar o git de forma remota, pode se usar o github entre no site do github e crie uma conta
+no site do github e possivel criar um novo projeto, clonar projeto existente entre outras opcoes
+para conectar um projeto ao github voce pode criar um novo projeto no site, e depois user git clone nome-do-repositorio
+assim voce tera uma copia local do projeto, caso voce queira atulizar o projeto do github,
+eh so usar o comando git pull origin master.
