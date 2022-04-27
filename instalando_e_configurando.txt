@@ -1,0 +1,4 @@
+use o comando sudo apt-get install git
+Para configurar use os seguintes comandos
+git config --global user.name username
+git config --global user.email user@email
