@@ -1,0 +1,4 @@
+Branch no git hub possibilita trabalhar no mesmo projeto com diferentes
+functionalidades, por example um site, um programdor poderia criar uma nova
+branch para trabalhar com o painel, outro programador poderia fazer a mesma coisa,
+e no final poderia escolher qual adicionaria a branch principal do projeto 
